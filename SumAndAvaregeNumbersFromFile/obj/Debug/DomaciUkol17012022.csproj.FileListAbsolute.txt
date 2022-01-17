@@ -1,0 +1,6 @@
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\bin\Debug\DomaciUkol17012022.exe
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\bin\Debug\DomaciUkol17012022.pdb
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\obj\Debug\DomaciUkol17012022.csproj.AssemblyReference.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\obj\Debug\DomaciUkol17012022.csproj.CoreCompileInputs.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\obj\Debug\DomaciUkol17012022.exe
+C:\Projekty\CSharpFiles\DomaciUkol17012022\DomaciUkol17012022\obj\Debug\DomaciUkol17012022.pdb

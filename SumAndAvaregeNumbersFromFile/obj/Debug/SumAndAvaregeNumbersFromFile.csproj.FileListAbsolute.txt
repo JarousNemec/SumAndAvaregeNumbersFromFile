@@ -1,0 +1,6 @@
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\bin\Debug\SumAndAvaregeNumbersFromFile.exe
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\bin\Debug\SumAndAvaregeNumbersFromFile.pdb
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\obj\Debug\SumAndAvaregeNumbersFromFile.csproj.AssemblyReference.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\obj\Debug\SumAndAvaregeNumbersFromFile.csproj.CoreCompileInputs.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\obj\Debug\SumAndAvaregeNumbersFromFile.exe
+C:\Projekty\CSharpFiles\DomaciUkol17012022\SumAndAvaregeNumbersFromFile\obj\Debug\SumAndAvaregeNumbersFromFile.pdb

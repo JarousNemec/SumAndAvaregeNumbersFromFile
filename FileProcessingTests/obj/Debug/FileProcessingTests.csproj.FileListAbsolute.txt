@@ -1,0 +1,11 @@
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\FileProcessingTests.dll
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\FileProcessingTests.pdb
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\nunit.framework.dll
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\nunit.framework.xml
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\obj\Debug\FileProcessingTests.csproj.AssemblyReference.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\obj\Debug\FileProcessingTests.csproj.CoreCompileInputs.cache
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\obj\Debug\FileProcessingTests.csproj.CopyComplete
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\obj\Debug\FileProcessingTests.dll
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\obj\Debug\FileProcessingTests.pdb
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\DomaciUkol17012022.exe
+C:\Projekty\CSharpFiles\DomaciUkol17012022\FileProcessingTests\bin\Debug\DomaciUkol17012022.pdb
