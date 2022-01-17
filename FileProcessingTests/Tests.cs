@@ -20,8 +20,8 @@ namespace FileProcessingTests
         [Test]
         public void TestNumberConverting()
         {
-            string[] dataToProcess = {"b;ssf;fdsa;5;fdss;68;1;dsat", "b;ssf;fdsa;5;fdss;63;4;dsat"};
-            List<int> processedNumbers = processor.ConvertDataFromFile(dataToProcess);
+            string[] dataToProcess = {"b;ssf;fdsa;5;fdss;68;1;dsat","b;ssf;fdsa;5;fdss;63;4;dsat"};
+            List<int> processedNumbers = processor.ReadNumbersFromFile(dataToProcess);
             List<int> expectedNumbers = new List<int>() {5, 68, 1, 5, 63, 4};
 
             CollectionAssert.AreEqual(expectedNumbers, processedNumbers);
@@ -44,7 +44,7 @@ namespace FileProcessingTests
         [Test]
         public void TestGettingLongestText()
         {
-            Assert.AreEqual(9, processor.GetLongestRowLenght(new[] {"praha", "les", "pardubice", "strecha"}));
+            Assert.AreEqual(9, OutputWriter.GetLongestRowLenght(new[] {"praha", "les", "pardubice", "strecha"}));
         }
     }
 }

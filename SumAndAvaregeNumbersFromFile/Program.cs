@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace DomaciUkol17012022
 {
@@ -7,8 +8,13 @@ namespace DomaciUkol17012022
         [STAThread]
         public static void Main(string[] args)
         {
-            new FileProcessor().Process();
-        }
+            var processor = new FileProcessor();
+
+            var path = processor.GetFilePath();
+            var numbers = processor.ReadNumbersFromFile(File.ReadAllLines(path));
+            var sum = processor.GetSum(numbers);
+            var avarage = processor.GetAvarage(numbers);
+            OutputWriter.PrintInfo(numbers, sum, avarage);
+            }
     }
-    
 }
