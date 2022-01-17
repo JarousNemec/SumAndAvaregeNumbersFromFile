@@ -8,9 +8,9 @@ namespace DomaciUkol17012022
         public static void PrintInfo(List<int> numbers, double sum, double avarage)
         {
             Console.Clear();
-            var collectionInfoText = "Načtená čísla: " + WriteCollection(numbers);
-            var sumInfoText = "Součet čísel: " + sum;
-            var avarageInfoText = "Průměr čísel: " + avarage;
+            var collectionInfoText = " Načtená čísla: " + WriteCollection(numbers);
+            var sumInfoText = " Součet čísel: " + sum;
+            var avarageInfoText = " Průměr čísel: " + avarage;
 
             var rowLenght = GetLongestRowLenght(new[] {collectionInfoText, sumInfoText, avarageInfoText}) + 2;
 
